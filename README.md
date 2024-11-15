@@ -28,3 +28,6 @@ funds
 platform.
 
 -> The data gets refreshed every 10 mins.
+
+## Solution
+https://drive.google.com/file/d/1Fp_HLCZ14noK0FQOdEhX6lkYH8lhT06p/view?usp=sharing
